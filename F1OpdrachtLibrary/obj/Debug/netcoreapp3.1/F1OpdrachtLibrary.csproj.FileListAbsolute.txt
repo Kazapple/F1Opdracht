@@ -8,3 +8,13 @@ C:\Users\stenh\source\repos\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1
 C:\Users\stenh\source\repos\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.csproj.CoreCompileInputs.cache
 C:\Users\stenh\source\repos\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.dll
 C:\Users\stenh\source\repos\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.pdb
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\bin\Debug\netcoreapp3.1\F1OpdrachtLibrary.deps.json
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\bin\Debug\netcoreapp3.1\F1OpdrachtLibrary.dll
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\bin\Debug\netcoreapp3.1\F1OpdrachtLibrary.pdb
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.csproj.AssemblyReference.cache
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.AssemblyInfoInputs.cache
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.AssemblyInfo.cs
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.csproj.CoreCompileInputs.cache
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.dll
+C:\Users\stenh\source\repos\F1opdrachtgit\F1Opdracht\F1OpdrachtLibrary\obj\Debug\netcoreapp3.1\F1OpdrachtLibrary.pdb

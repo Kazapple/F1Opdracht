@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stenh\\source\\repos\\F1opdracht\\F1opdracht\\F1opdracht.csproj": {}
+    "C:\\Users\\stenh\\source\\repos\\F1opdrachtgit\\F1Opdracht\\F1opdracht\\F1opdracht.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stenh\\source\\repos\\F1opdracht\\F1opdracht\\F1opdracht.csproj": {
+    "C:\\Users\\stenh\\source\\repos\\F1opdrachtgit\\F1Opdracht\\F1opdracht\\F1opdracht.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stenh\\source\\repos\\F1opdracht\\F1opdracht\\F1opdracht.csproj",
+        "projectUniqueName": "C:\\Users\\stenh\\source\\repos\\F1opdrachtgit\\F1Opdracht\\F1opdracht\\F1opdracht.csproj",
         "projectName": "F1opdracht",
-        "projectPath": "C:\\Users\\stenh\\source\\repos\\F1opdracht\\F1opdracht\\F1opdracht.csproj",
+        "projectPath": "C:\\Users\\stenh\\source\\repos\\F1opdrachtgit\\F1Opdracht\\F1opdracht\\F1opdracht.csproj",
         "packagesPath": "C:\\Users\\stenh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stenh\\source\\repos\\F1opdracht\\F1opdracht\\obj\\",
+        "outputPath": "C:\\Users\\stenh\\source\\repos\\F1opdrachtgit\\F1Opdracht\\F1opdracht\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stenh\\AppData\\Roaming\\NuGet\\NuGet.Config",
