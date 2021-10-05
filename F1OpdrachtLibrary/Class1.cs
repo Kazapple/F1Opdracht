@@ -14,15 +14,17 @@ namespace F1OpdrachtLibrary
         List<Seizoen> seizoenList = new List<Seizoen>();
         public List<Seizoen> SeizoenList { get { return seizoenList; } }
     }
+    public class RaceklasseContainer
+    {
+        List<Raceklasse> raceklasseList = new List<Raceklasse>();
+        public List<Raceklasse> RaceklasseList { get { return raceklasseList; } }
+    }
 
     public class Seizoen
     {
         public int Aantalraces { get; set; }
         public string Kampioen { get; set; }
         public string Periode { get; set; }
-
-        List<RaceTeam> raceTeamList = new List<RaceTeam>();
-        public List<RaceTeam> RaceTeamList { get { return raceTeamList; } }
     }
 
     public class RaceTeam
@@ -31,7 +33,12 @@ namespace F1OpdrachtLibrary
         public string Aantalraces { get; set; }
         public bool Actief { get; set; }
 
-        List<Raceklasse> raceklasseList = new List<Raceklasse>();
-        public List<Raceklasse> RaceklasseList { get { return raceklasseList; } }
+
+    }
+
+    public class RaceTeamContainer
+    {
+        List<RaceTeam> raceTeamList = new List<RaceTeam>();
+        public List<RaceTeam> RaceTeamList { get { return raceTeamList; } }
     }
 }
