@@ -9,6 +9,8 @@ namespace F1OpdrachtTest
         Raceklasse raceklasse;
         Seizoen seizoen;
         RaceTeam raceTeam;
+        RaceklasseContainer raceklasseContainer;
+        RaceTeamContainer raceTeamContainer;
 
         [TestInitialize]
         public void Setup()
@@ -16,6 +18,8 @@ namespace F1OpdrachtTest
             raceklasse = new Raceklasse();
             seizoen = new Seizoen();
             raceTeam = new RaceTeam();
+            raceklasseContainer = new RaceklasseContainer();
+            raceTeamContainer = new RaceTeamContainer();
         }
         [TestMethod]
         public void TestMethod1()
@@ -39,17 +43,17 @@ namespace F1OpdrachtTest
             raceklasse.SeizoenList.Remove(seizoen);
             Assert.IsFalse(raceklasse.SeizoenList.Contains(seizoen));
 
-            raceTeam.RaceklasseList.Add(raceklasse);
-            Assert.IsTrue(raceTeam.RaceklasseList.Contains(raceklasse));
+            raceklasseContainer.RaceklasseList.Add(raceklasse);
+            Assert.IsTrue(raceklasseContainer.RaceklasseList.Contains(raceklasse));
 
-            raceTeam.RaceklasseList.Remove(raceklasse);
-            Assert.IsFalse(raceTeam.RaceklasseList.Contains(raceklasse));
+            raceklasseContainer.RaceklasseList.Remove(raceklasse);
+            Assert.IsFalse(raceklasseContainer.RaceklasseList.Contains(raceklasse));
 
-            seizoen.RaceTeamList.Add(raceTeam);
-            Assert.IsTrue(seizoen.RaceTeamList.Contains(raceTeam));
+            raceTeamContainer.RaceTeamList.Add(raceTeam);
+            Assert.IsTrue(raceTeamContainer.RaceTeamList.Contains(raceTeam));
 
-            seizoen.RaceTeamList.Remove(raceTeam);
-            Assert.IsFalse(seizoen.RaceTeamList.Contains(raceTeam));
+            raceTeamContainer.RaceTeamList.Remove(raceTeam);
+            Assert.IsFalse(raceTeamContainer.RaceTeamList.Contains(raceTeam));
         }
     }
 }
